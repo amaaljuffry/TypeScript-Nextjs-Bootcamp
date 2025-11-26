@@ -1,7 +1,6 @@
-﻿﻿# TypeScript Nextjs Bootcamp
+﻿# TypeScript Nextjs Bootcamp
 
-This repository contains TypeScript Nextjs bootcamp.
-
+This repository contains TypeScript + Next.js bootcamp.
 
 
 
